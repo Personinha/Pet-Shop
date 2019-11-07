@@ -1,5 +1,5 @@
 package gabriel;
-
+//aa
 public class RepositorioProdutosArray implements RepositorioProduto {
 	private Produtos[] produtos;
 	int indice = 0;
