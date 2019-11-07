@@ -1,5 +1,5 @@
 package gabriel;
-//aa
+
 public interface RepositorioProduto {
 	void inserir(Produtos produto);
 	Produtos procurar(String codeProduto);
