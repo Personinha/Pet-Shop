@@ -1,17 +1,23 @@
 package serviços;
 
 public class RepositorioServiçoArray implements RepositorioServiços {
-
-	@Override
+	private Serviços [] serviço;
+	
 	public void inserir(Serviços serviço) {
 		// usar um for checando se e null
 		
 	}
 
-	@Override
 	public void remover(String codigo) {
-		// TODO Auto-generated method stub
 		
+	}
+
+	public void atualizar(Serviços serviço) {
+		
+	}
+
+	public Serviços procurar(String codigo) {
+		return null;
 	}
 
 }
